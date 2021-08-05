@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Pico_FNF_assetss.png">
+<TextureAtlas imagePath="picoMenuDancin.png">
 	<SubTexture name="Pico FUNKIN0000" x="10" y="10" width="446" height="462" frameX="-18" frameY="-13" frameWidth="446" frameHeight="462"/>
 	<SubTexture name="Pico FUNKIN0001" x="10" y="10" width="446" height="462" frameX="-18" frameY="-13" frameWidth="446" frameHeight="462"/>
 	<SubTexture name="Pico FUNKIN0002" x="466" y="10" width="452" height="468" frameX="-11" frameY="-6" frameWidth="452" frameHeight="468"/>
