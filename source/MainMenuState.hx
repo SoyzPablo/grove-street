@@ -155,6 +155,7 @@ class MainMenuState extends MusicBeatState
 		sprDifficulty.animation.addByPrefix('normal', 'NORMAL');
 		sprDifficulty.animation.addByPrefix('hard', 'HARD');
 		sprDifficulty.animation.addByPrefix('flipped', 'FLIPPED');
+		sprDifficulty.animation.addByPrefix('zzz', 'ZZZ');
 		sprDifficulty.animation.play('easy');
 		sprDifficulty.scrollFactor.set(0, 0);
 		changeDifficulty();

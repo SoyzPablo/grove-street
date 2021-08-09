@@ -96,8 +96,11 @@ class Highscore
 	{
 		var daSong:String = song;
 
-		if (diff == 1)
-			daSong += '-flipped';
+		switch(diff)
+		{
+		case 1:
+			daSong += "-flipped";
+		}
 
 		return daSong;
 	}
