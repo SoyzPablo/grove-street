@@ -1,4 +1,4 @@
-![Grove Street Logo](https://cdn.discordapp.com/attachments/703343699098337460/874123460232757288/GroveStreetLogo.png)
+![Grove Street Logo](assets/preload/GroveStreetLogo.png)
 # Friday Night Funkin' Grove Street Mod
 Hello! This is a modification for the indie game "**Friday Night Funkin'**"
 ## Credits
